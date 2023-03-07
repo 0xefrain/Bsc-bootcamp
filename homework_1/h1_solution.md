@@ -26,6 +26,6 @@ network infrastructure and much less vulnerable to hacks or shutdowns , since it
 With help Blockchain Oracles like Chainlink VRF we can decide who take next turn providing randomness or predefined achievements
 
 
- -how to allow the correct people to join the game
+ - how to allow the correct people to join the game
 
 Blockchain allow implementation of diferent access control mechanism for our game .
