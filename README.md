@@ -1,1 +1,1 @@
-# Binance Smart Chain Zero to Hero Bootcamp  Encode Club 
+## Binance Smart Chain Zero to Hero Bootcamp  Encode Club 
