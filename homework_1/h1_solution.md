@@ -1,4 +1,4 @@
-#Decentralised Systems
+# Decentralised Systems
 
 Discuss in your teams what a decentralised version of a game like monopoly would be
 like, if there was no software on a central server.
