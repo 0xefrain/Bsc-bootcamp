@@ -1,5 +1,5 @@
-#Homework 2
-##Block Explorer
+# Homework 2
+## Block Explorer
 Use the main net block explorer to find
 1. How many users are holding the pancake swap token 'cake' ?
 2. Approximately, how many unique addresses are there ?
