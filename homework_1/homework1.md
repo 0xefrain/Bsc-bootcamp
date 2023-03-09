@@ -1,5 +1,5 @@
-#Homework 1
-##Decentralised Systems
+# Homework 1
+## Decentralised Systems
 Discuss in your teams what a decentralised version of a game like monopoly would be
 like, if there was no software on a central server.
 How would you solve the problems of
