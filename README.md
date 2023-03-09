@@ -11,7 +11,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Course Introduction / Blockchain / Cryptography
 - [x] BNB Chain
 - [x] Remix
-- [ ] Solidity language
+- [x] Solidity language
 
 ### Week 2 - Solidity and dev tools
 - [ ] EVM details
