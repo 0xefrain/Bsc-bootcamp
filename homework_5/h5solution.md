@@ -23,8 +23,12 @@ deploy it to BSC test net.
 
 2. Verify your contract, using verify and publish
 
+![Verify and publish](https://github.com/0xefrain/bsc-bootcamp/blob/main/homework_5/homework5.png)
+
 
    
 
 3. Interact with your contract using the 'Read Contract' and 'Write
 Contract' tabs.
+
+![interact](https://github.com/0xefrain/bsc-bootcamp/blob/main/homework_5/homework5-2.png)
