@@ -14,10 +14,10 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Solidity language
 
 ### Week 2 - Solidity and dev tools
-- [ ] EVM details
-- [ ] Solidity language 2
-- [ ] Solidity security
-- [ ] Further IDEs
+- [x] EVM details
+- [x] Solidity language 2
+- [x] Solidity security
+- [x] Further IDEs
 
 ### Week 3 - UI and DeFi intro
 - [ ] Ethers
