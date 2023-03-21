@@ -20,7 +20,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Further IDEs
 
 ### Week 3 - UI and DeFi intro
-- [ ] Ethers
+- [x] Ethers
 - [ ] Introduction to DeFi
 - [ ] Gas optimisation
 
