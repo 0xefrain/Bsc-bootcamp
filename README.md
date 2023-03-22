@@ -21,7 +21,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 
 ### Week 3 - UI and DeFi intro
 - [x] Ethers
-- [ ] Introduction to DeFi
+- [x] Introduction to DeFi
 - [ ] Gas optimisation
 
 ### Week 4 - DApps and DeFi
