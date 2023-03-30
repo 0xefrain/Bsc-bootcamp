@@ -28,7 +28,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Gas optimisation 2
 - [ ] Coding for DeFi
 - [x] Decentralised Storage
-- [ ] Scalability
+- [x] Scalability
 
 ### Week 5 - Further technology
 - [ ] Zero Knowledge Proofs
