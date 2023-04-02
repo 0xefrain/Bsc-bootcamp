@@ -26,7 +26,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 
 ### Week 4 - DApps and DeFi
 - [x] Gas optimisation 2
-- [ ] Coding for DeFi
+- [x] Coding for DeFi
 - [x] Decentralised Storage
 - [x] Scalability
 
