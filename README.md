@@ -31,9 +31,9 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Scalability
 
 ### Week 5 - Further technology
-- [ ] Zero Knowledge Proofs
+- [x] Zero Knowledge Proofs
 - [ ] MEV
-- [ ] Interacting with DeFi projects
+- [x] Interacting with DeFi projects
 - [ ] Documentation
 
 ### Week 6 - Further technology
