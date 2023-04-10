@@ -32,14 +32,14 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 
 ### Week 5 - Further technology
 - [x] Zero Knowledge Proofs
-- [ ] MEV
+- [x] MEV
 - [x] Interacting with DeFi projects
-- [ ] Documentation
+- [x] Documentation
 
 ### Week 6 - Further technology
 - [ ] Advanced security
 - [ ] Testing
-- [ ] Audits
+- [x] Audits
 - [ ] Review
 
 
