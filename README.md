@@ -37,7 +37,7 @@ Repository documenting  my learning through Bootcamp and solutions to homeworks
 - [x] Documentation
 
 ### Week 6 - Further technology
-- [ ] Advanced security
+- [x] Advanced security
 - [ ] Testing
 - [x] Audits
 - [ ] Review
